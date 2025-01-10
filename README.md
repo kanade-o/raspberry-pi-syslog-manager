@@ -25,4 +25,4 @@ Raspberry Pi (rsyslog)
 - AWS Services: Cognito, S3, API Gateway, Lambda, and Slack webhook.
 
 # Installation and Setup
-
+[Qiita](https://qiita.com/kanade-o/items/ae70b1d9dbb504304fed)
